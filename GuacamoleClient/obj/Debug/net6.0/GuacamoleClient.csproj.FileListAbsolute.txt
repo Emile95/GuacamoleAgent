@@ -1,0 +1,17 @@
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\bin\Debug\net6.0\GuacamoleClient.exe
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\bin\Debug\net6.0\GuacamoleClient.deps.json
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\bin\Debug\net6.0\GuacamoleClient.runtimeconfig.json
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\bin\Debug\net6.0\GuacamoleClient.dll
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\bin\Debug\net6.0\GuacamoleClient.pdb
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.csproj.AssemblyReference.cache
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.AssemblyInfoInputs.cache
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.AssemblyInfo.cs
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.csproj.CoreCompileInputs.cache
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.dll
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\refint\GuacamoleClient.dll
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.pdb
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.genruntimeconfig.cache
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\ref\GuacamoleClient.dll
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Project\Guacamole\GuacamoleClient\GuacamoleClient\obj\Debug\net6.0\GuacamoleClient.csproj.CopyComplete
